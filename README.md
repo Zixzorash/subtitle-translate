@@ -28,7 +28,7 @@ This web tool allows you to translate SubRip Subtitle (.srt) files or pasted SRT
 
 ### How to Use
 
-1.  **Open the Tool:** Go to [https://itsyebekhe.github.io/subtitle-translate/](https://itsyebekhe.github.io/subtitle-translate/).
+1.  **Open the Tool:** Go to [https://zixzorash.github.io/JAVTH-SUB/](https://zixzorash.github.io/JAVTH-SUB/).
 2.  **Select Input Method:**
     *   **Upload File:** Click the "Upload File" radio button, then drag & drop your `.srt` file onto the designated area or click it to browse.
     *   **Paste Text:** Click the "Paste Text" radio button and paste your complete SRT content into the text area.
